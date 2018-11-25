@@ -1,0 +1,6 @@
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.pdb
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.exe
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.pdb

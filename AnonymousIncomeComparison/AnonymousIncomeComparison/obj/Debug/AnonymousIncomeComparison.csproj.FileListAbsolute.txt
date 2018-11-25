@@ -1,0 +1,7 @@
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe.config
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.pdb
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csprojAssemblyReference.cache
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.CoreCompileInputs.cache
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.exe
+E:\Git\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.pdb
